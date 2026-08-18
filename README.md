@@ -15,7 +15,7 @@
 ## 👩‍💻 About Me
 
 - 🎓 Final-year **E&TC Engineering** student @ PES Modern College of Engineering, Pune
-- 💼 Currently interning @ **Vinsys IT Services** — Java, Spring Boot, OCR, RAG
+- 💼 Currently inten @ **Vinsys IT Services** — python,gen ai
 - 🏢 Previously @ **Get My Solutions** — React, Firebase, Full-stack
 - 🤖 Passionate about **Gen AI, LLMs, and Computer Vision**
 - 🌱 Always building something new
